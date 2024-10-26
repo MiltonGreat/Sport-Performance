@@ -38,13 +38,9 @@ The dataset consists of 12,187 movies, with attributes including:
 
 #### 6. Key Findings
       
-Relationship Between Assists and Turnovers: Guards tend to have higher assists but also accumulate more turnovers due to their ball-handling role, as shown in the scatter plot.
+- Playmakers (e.g., point guards, high-assist players) are also at higher risk for turnovers. The strong positive correlation between assists and turnovers (both in total and per game) suggests that these players face greater playmaking responsibilities.
 
-Average Assists Per Game by Position: Guards had the highest average assists per game, followed by forwards and centers, as shown in the bar plot.
-
-Outliers in Assists and Turnovers: Boxplots of assists and turnovers indicate potential outliers in the dataset. These could represent standout performances or data inconsistencies that may need further investigation.
-
-Correlation Between Player Metrics: The correlation matrix reveals that certain metrics, like points and assists, are positively correlated, suggesting that players who pass the ball effectively may also score more points.
+- Assist efficiency (A/TO ratio) is inversely related to turnovers. Players who limit turnovers tend to have higher assist-to-turnover ratios, which is a positive indicator of efficient ball handling.
 
 #### 7.  Source
 
